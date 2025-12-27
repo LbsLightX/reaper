@@ -3,7 +3,7 @@ title = 'Home'
 date = 2024-10-11T00:27:57-04:00
 draft = false
 +++
-Hello!
+Yoo!
 
 Not much to see here yet, but I now have a personal website, so yeah.
 
@@ -12,10 +12,10 @@ Not much to see here yet, but I now have a personal website, so yeah.
 # Where to find me
 
 - Github: <a href="https://lbslightx.github.io/reaper/" rel="me">@</a>
-- Bluesky: [@](https://)
-- XMPP: [@](https://)
-- Revolt: [@](https://)
-- Matrix: [@](https://)
+- untitled: [@](https://)
+- untitled: [@](https://)
+- untitled: [@](https://)
+- untitled: [@](https://)
   (alt: [@](https://))
 
 </section>

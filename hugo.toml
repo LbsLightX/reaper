@@ -1,5 +1,5 @@
 baseURL = 'https://lbslightx.github.io/reaper/'
-languageCode = 'en-ca'
+languageCode = 'en-us'
 title = 'Untitled Project'
 theme = 'retroish'
 
