@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5;
+  margin: 1rem;
+  max-width: 768px;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+a:link {
+  color: greenyellow;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:visited {
+  color: yellow;
+}
+
+h1#site-title {
+  text-align: center;
+}

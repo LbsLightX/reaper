@@ -1,0 +1,18 @@
+baseURL = 'https://biribiri.dev/'
+languageCode = 'en-ca'
+title = '⚡ Project Radio Noise 🔌'
+theme = 'retroish'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+# Uncomment when there are actual posts
+#[[menus.main]]
+#name = 'Posts'
+#pageRef = '/posts'
+#weight = 20
