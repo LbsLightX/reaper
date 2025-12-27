@@ -1,6 +1,6 @@
 baseURL = 'https://lbslightx.github.io/reaper/'
 languageCode = 'en-ca'
-title = '⚡ Project Radio Noise 🔌'
+title = 'Untitled Project'
 theme = 'retroish'
 
 [markup.goldmark.renderer]

@@ -11,7 +11,7 @@ Not much to see here yet, but I now have a personal website, so yeah.
 
 # Where to find me
 
-- Fediverse: <a href="https://akko.wtf/mikoto" rel="me">@</a>
+- Github: <a href="https://lbslightx.github.io/reaper/" rel="me">@</a>
 - Bluesky: [@](https://)
 - XMPP: [@](https://)
 - Revolt: [@](https://)
