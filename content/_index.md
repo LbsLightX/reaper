@@ -11,23 +11,22 @@ Not much to see here yet, but I now have a personal website, so yeah.
 
 # Where to find me
 
-- Fediverse: <a href="https://akko.wtf/mikoto" rel="me">@mikoto@akko.wtf</a>
-- Bluesky: [@biribiri.dev](https://bsky.app/profile/biribiri.dev)
-- XMPP: [norm@lunanova.dev](xmpp:norm@lunanova.dev) or [norm@snug.moe](xmpp:norm@snug.moe)
-- Revolt: norm#9684
-- Matrix: [@norm:biribiri.dev](https://matrix.to/#/@norm:biribiri.dev)
-  (alt: [@norm:snug.moe](https://matrix.to/#/@norm:snug.moe))
+- Fediverse: <a href="https://akko.wtf/mikoto" rel="me">@</a>
+- Bluesky: [@](https://)
+- XMPP: [@](https://)
+- Revolt: [@](https://)
+- Matrix: [@](https://)
+  (alt: [@](https://))
 
 </section>
 <section id="friends">
 
 # Cool People
 
-[![Devious](images/dev.png)](https://tengu.space)
-[![Ezio](images/ezio.png)](https://reimu.info/)
-[![dd](images/dd86k.png)](https://dd86k.space/)
-[![Yuki](images/yuki.png)](https://xn--u80a.com/)
-[![Pixel](images/pixeldesu.png)](https://pixelde.su/)
+[![temp1](images/temp1.png)](https://)
+[![temp2](images/temp2.png)](https://)
+[![temp3](images/temp3.png)](https://)
+[![temp4](images/temp4.png)](https://)
 
 </section>
 <section id="badge">
